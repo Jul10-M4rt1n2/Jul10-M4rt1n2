@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Júlio Martins 👋
 
-- 🔭 Hoje trabalho como front-end usando React.js e Next.js
+- 🔭 Hoje trabalho como front-end PHP
 - 🌱 Estudando frameworks
 - 📫 Contate-me no email: julio.neto@senaimt.edu.br
 - 😄 Pronomes: ele/dele
