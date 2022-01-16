@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Júlio Martins 👋
 
-- 🔭 Hoje trabalho como front-end PHP
-- 🌱 Estudando frameworks
+- 🔭 Hoje trabalho como desenvolvedor PHP Laravel Jr
+- 🌱 Estudando frameworks Laravel
 - 📫 Contate-me no email: julio.neto@senaimt.edu.br
 - 😄 Pronomes: ele/dele
 
