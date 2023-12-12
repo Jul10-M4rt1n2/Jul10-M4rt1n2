@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Júlio Martins 👋
 
 - 🔭 Hoje trabalho como desenvolvedor PHP Laravel Jr
-- 🌱 Estudando frameworks Laravel
-- 📫 Contate-me no email: julio.neto@senaimt.edu.br
+- 🌱 Estudando framework Laravel
+- 📫 Contate-me no email: jumazi-tech@hotmail.com
 - 😄 Pronomes: ele/dele
 
  <div>
