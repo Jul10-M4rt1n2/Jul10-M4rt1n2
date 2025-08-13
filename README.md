@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Júlio Martins 👋
 
-- 🔭 Hoje trabalho como desenvolvedor PHP Laravel Jr
+- 🔭 Hoje trabalho como desenvolvedor PHP Laravel
 - 🌱 Estudando framework Laravel
 - 📫 Contate-me no email: jumazi-tech@hotmail.com
 - 😄 Pronomes: ele/dele
